@@ -1,0 +1,9 @@
+black
+pytest
+fastapi
+uvicorn
+httpie
+requests
+httpx
+# Optional
+mypy # static type checker
